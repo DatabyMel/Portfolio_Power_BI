@@ -22,7 +22,7 @@ Con este dashboard se busca optimizar la **gestión del talento humano** y facil
 ![alt text](image-2.png)
 
 - **Evaluaciones de desempeño**  
-- ![alt text](image-3.png)
+ ![alt text](image-4.png)
 
 ---
 
