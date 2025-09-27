@@ -1,6 +1,6 @@
 # 📊 Proyecto: Dashboard de Recursos Humanos – SKU-DON
 
-## 🚀 Descripción
+## Descripción
 Este proyecto presenta un **Dashboard interactivo desarrollado en Power BI** para el área de Recursos Humanos de la empresa ficticia **SKU-DON**.  
 El objetivo principal es analizar y visualizar datos relacionados con los empleados, permitiendo identificar patrones en:
 - Distribución geográfica.
@@ -13,9 +13,9 @@ Con este dashboard se busca optimizar la **gestión del talento humano** y facil
 
 ---
 
-## 🖼️ Vista previa del Dashboard
-### Imagen general:
-(![Dashboard Recursos Humanos](image-1.png))
+## Vista previa del Dashboard
+### Imagen general - Colaboradores:
+![Dashboard Recursos Humanos](image-1.png)
 
 >   
 - **Análisis de sueldo**  
@@ -50,7 +50,7 @@ Con este dashboard se busca optimizar la **gestión del talento humano** y facil
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 - Facilitar el **seguimiento de desempeño y sueldos** por departamento.  
 - Identificar **concentración geográfica** de empleados.  
 - Analizar **equidad de género** y distribución por edades.  
