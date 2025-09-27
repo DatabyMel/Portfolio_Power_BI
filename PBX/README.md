@@ -19,10 +19,10 @@ Con este dashboard se busca optimizar la **gestión del talento humano** y facil
 
 >   
 - **Análisis de sueldo**  
-![alt text](image-2.png)
+![alt text](image-5.png)
 
 - **Evaluaciones de desempeño**  
- ![alt text](image-4.png)
+ ![alt text](image-6.png)
 
 ---
 
