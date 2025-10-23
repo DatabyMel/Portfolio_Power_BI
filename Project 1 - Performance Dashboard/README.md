@@ -23,7 +23,7 @@ El objetivo principal es ofrecer una visión completa y detallada del rendimient
 
 ## 🧠 Proceso de Desarrollo y Abordaje Analítico
 
-Mi enfoque se centró en la metodología de la **"Visión de 360 Grados del Rendimiento"**, articulada mediante las siguientes preguntas clave (el *framework* de análisis) que definieron la estructura del dashboard:
+Mi enfoque se centró en la **Indagación Dirigida al Negocio**, articulada mediante las siguientes preguntas clave. Este proceso fue fundamental para ir más allá de los datos y asegurar que el dashboard entregara valor real al líder del equipo:
 
 1.  **¿Qué Pretende Abordar el Dashboard?**
     * Evaluar la eficiencia operativa (ej. ¿Se están procesando las tareas a un ritmo adecuado?).
